@@ -1,1 +1,7 @@
-hi
+1) Install Docker file
+    no WSL2 
+    use hyperV
+    clear upper checkbox
+
+
+
