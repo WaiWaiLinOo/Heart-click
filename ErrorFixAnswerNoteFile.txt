@@ -16,6 +16,11 @@
     at Array.forEach (<anonymous>)
     at series_form.js:177:31
     at Array.forEach (<anonymous>)
+ 
+ 3)Property 'filter' does not exist on type 'unknown'.Vetur(2339)
+        var product = this.otherProductLists = this.otherProductLists.filter(selected  => selected.category_id !== category.id)
+        this.$store.commit("series/setOtherProductList", product);
+   reference (SeriesFormCategory.vue) no-135
 
 
 
