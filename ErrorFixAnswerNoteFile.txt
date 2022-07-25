@@ -2,6 +2,20 @@
     no WSL2 
     use hyperV
     clear upper checkbox
+    
+ 2)[Vue warn]: Error in callback for watcher "function () { return this._data.$$state }": "Error: [vuex] do not mutate vuex store state outside mutation handlers."
+    (found in <Root>)
+    Error: [vuex] do not mutate vuex store state outside mutation handlers.
+    at assert (category_update_custom01.vue:135:20)
+    at store._vm.$watch.deep (category_update_custom01.vue:889:1)
+    at Watcher.run (between.js:4563:1)
+    at Watcher.update (between.js:4537:1)
+    at Dep.notify (between.js:741:1)
+    at Array.mutator (between.js:893:1)
+    at series_form.js:181:40
+    at Array.forEach (<anonymous>)
+    at series_form.js:177:31
+    at Array.forEach (<anonymous>)
 
 
 
