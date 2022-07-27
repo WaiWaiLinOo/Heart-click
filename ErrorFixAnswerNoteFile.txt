@@ -21,6 +21,10 @@
         var product = this.otherProductLists = this.otherProductLists.filter(selected  => selected.category_id !== category.id)
         this.$store.commit("series/setOtherProductList", product);
    reference (SeriesFormCategory.vue) no-135
+   
+   
+ 4) note --     git fetch origin "gitname"
+                git checout "gitname"
 
 
 
