@@ -25,6 +25,9 @@
    
  4) note --     git fetch origin "gitname"
                 git checout "gitname"
+          
+5) -------Mail generated password code----
+        rvuy scfw kaqg uuom
 
 
 
