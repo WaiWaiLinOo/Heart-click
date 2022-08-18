@@ -28,6 +28,8 @@
           
 5) -------Mail generated password code----
         rvuy scfw kaqg uuom
+6) migration rollback file
+    php artisan migrate:rollback
 
 
 
